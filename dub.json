@@ -16,7 +16,7 @@
     ],
     "dflags-ldc": ["source/box2d_lib.c", "-I./box2d/include"],
     "description": "Raylib example with box2d in D",
-    "name": "raylib_box_d",
+    "name": "raylib_box2d_d",
     "dependencies": {
         "raylib-d": "~>5.0.1"
     },

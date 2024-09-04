@@ -128,7 +128,6 @@ void main()
 
   UnloadTexture(groundTexture);
   UnloadTexture(boxTexture);
-  CloseWindow();
 
   writeln("Ending a box2d/raylib example.");
 }
