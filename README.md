@@ -30,10 +30,10 @@ So you need only to run:
 ```bash
 dub run
 ```
-
 And it should work
 ![screenshot](screenshot.png)
 
 ## Credits
 [box2d-raylib](https://github.com/erincatto/box2d-raylib) - example from raylib github
+
 [raylib-d](https://github.com/schveiguy/raylib-d) - raylib D library
