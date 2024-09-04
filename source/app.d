@@ -26,8 +26,8 @@ void drawEntity(Entity* entity)
 void main()
 {
   writeln("Starting a box2d/raylib example.");
-  int width = 1200;
-  int height = 900;
+  int width = 1300;
+  int height = 1000;
 
   validateRaylibBinding();
 

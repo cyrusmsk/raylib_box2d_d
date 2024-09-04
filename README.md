@@ -2,7 +2,7 @@
  Example for raylib and box2d in D language (PoC)
 
 ## Installation
-Currently to make project working you need to install 2 libraries: raylib and box2d (version 3.x, because it was ported to C)
+Currently to make the project working you need to install 2 libraries: raylib and box2d (version 3.x, because it was ported to C)
 
 ### Raylib
 I've used [raylib-d]() library on macOS.
@@ -16,6 +16,7 @@ dub run raylib-d:install
 
 ### Box2d
 At the time of the creation of this project in the homebrew was available only version 2.4.2
+
 But because we have ImportC we can use fresh release of box2d like that:
 ```bash
 git clone https://github.com/erincatto/box2d.git
